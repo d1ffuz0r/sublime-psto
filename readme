@@ -6,8 +6,8 @@ copy Psto to %sublime/text/intall/path%/Data/Packages/
 settings:
 username and password for you jabber account set in Psto/Psto.py:
 settings = {"jid": "",
-			"password": "",
-			"pstobot": "psto@psto.net",
-			"res": "Sublime Text Psto-Plugin"}
+            "password": "",
+            "pstobot": "psto@psto.net",
+            "res": "Sublime Text Psto-Plugin"}
 			
 using: Tools -> Packages -> Psto and see screens
